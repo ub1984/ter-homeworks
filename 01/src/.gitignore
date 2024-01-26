@@ -8,5 +8,5 @@
 *.tfstate
 *.tfstate.*
 
-# own secret vars store.
+# own secret vars store. (Dопустимо сохранять личную, секретную информацию)
 personal.auto.tfvars
