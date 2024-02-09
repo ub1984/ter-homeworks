@@ -1,5 +1,6 @@
 # Local .terraform directories and files
 **/.terraform/*
+**/besk/*
 .terraform*
 
 !.terraformrc
@@ -10,3 +11,4 @@
 
 # own secret vars store.
 personal.auto.tfvars
+ssh_key.tf
